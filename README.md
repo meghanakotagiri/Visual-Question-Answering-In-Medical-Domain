@@ -10,6 +10,6 @@ participating systems are tasked with answering the question based on the visual
 content”.
 
 Please refer to the image below for Baseline Model Architecture:
-![alt text](Visual-Question-Answering-In-Medical-Domain/AMP ASS 2.jpg)
+![alt text](Visual-Question-Answering-In-Medical-Domain/AMP ASS 2.jpg?raw=true)
 
 For more details related to implementation and results of the project, please refer to file "AMP REPORT.pdf" 
